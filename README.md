@@ -1,3 +1,48 @@
+step 1 
+created the app
+ $ yarn create react-app cat-tinder-frontend-j-v
+
+step 2 cd 
+cat-tinder-frontend-j-v
+
+step 3
+accepted assigment from slack
+
+step 4 
+added cammited and push to main
+
+step 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
