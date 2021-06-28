@@ -9,14 +9,13 @@ import CatShow from './pages/CatShow'
 import CatNew from './pages/CatNew'
 import CatEdit from './pages/CatEdit'
 import NotFound from './pages/NotFound'
-
+import mockCats from './mockCats.js'
 import {
   BrowserRouter as Router,
   Route,
   Switch
 } from 'react-router-dom'
 
-import mockCats from './mockCats.js'
 
 
 
